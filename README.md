@@ -13,21 +13,29 @@
 
 ---
 
-[![img_mail](./images/mail.png)](mailto:marek.volet@hotmail.fr)
-[![img_linkedin](./images/linkedin.png)](https://www.linkedin.com/in/marek-volet/)
-[![img_twitter](./images/twitter.png)](https://twitter.com/rrSyntax)
-[![img_website](./images/globe.png)](https://portefolio-m-volet.vercel.app/)
+<a href="mailto:marek.volet@hotmail.fr">
+<img src="./images/mail.png" width="35px" alt="mail_icon"/>
+</a>
+<a href="https://www.linkedin.com/in/marek-volet/">
+<img src="./images/linkedin.png" width="35px" alt="linkedin_icon"/>
+</a>
+<a href="https://twitter.com/rrSyntax">
+<img src="./images/twitter.png" width="35px" alt="twitter_icon"/>
+</a>
+<a href="https://portefolio-m-volet.vercel.app/">
+<img src="./images/globe.png" width="35px" alt="globe_icon"/>
+</a>
 
 ### Languages and Tools
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" alt="visualstudiocode_icon"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="html5_icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="css3_icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="javascript_icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" alt="react_icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" alt="php_icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="50px" alt="symfony_icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50px" alt="laravel_icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" alt="mysql_icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50px" alt="mysql_icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" alt="visualstudiocode_icon"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" alt="html5_icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" alt="css3_icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" alt="javascript_icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" alt="react_icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" alt="php_icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="30px" alt="symfony_icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30px" alt="laravel_icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" alt="mysql_icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30px" alt="mysql_icon"/>
