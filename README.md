@@ -13,16 +13,16 @@
 
 ---
 
-<a href="mailto:marek.volet@hotmail.fr">
+<a href="mailto:marek.volet@hotmail.fr" target="_blank">
 <img src="./images/mail.png" width="35px" alt="mail_icon"/>
 </a>
-<a href="https://www.linkedin.com/in/marek-volet/">
+<a href="https://www.linkedin.com/in/marek-volet/" target="_blank">
 <img src="./images/linkedin.png" width="35px" alt="linkedin_icon"/>
 </a>
-<a href="https://twitter.com/rrSyntax">
+<a href="https://twitter.com/rrSyntax" target="_blank">
 <img src="./images/twitter.png" width="35px" alt="twitter_icon"/>
 </a>
-<a href="https://portefolio-m-volet.vercel.app/">
+<a href="https://portefolio-m-volet.vercel.app/" target="_blank">
 <img src="./images/globe.png" width="35px" alt="globe_icon"/>
 </a>
 
