@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working on wordpress, time to create my own theme!
+- 🔭 I’m currently working on ReactJS, time to learn some new skills!
 - 🌱 I’m currently learning React :smiley:
 - 👯 I’m looking to collaborate on the most exciting projects
 - 🤔 I’m looking for my first job as a web developper
@@ -53,8 +53,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" alt="linux_icon" style="padding-right:11px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="30px" alt="slack_icon" style="padding-right:11px"/>
 
-<!-- ### 📈 Stats
+### 📈 Stats
 
 --- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VOLETMarek&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VOLETMarek&show_icons=true&theme=radical)
