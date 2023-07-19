@@ -3,9 +3,8 @@
 ---
 
 - 🔭 I’m currently working on ReactJS, time to learn some new skills!
-- 🌱 I’m currently learning React :smiley:
-- 👯 I’m looking to collaborate on the most exciting projects
-- 🤔 I’m looking for my first job as a web developper
+- 👨🏻‍💻 I’m looking to collaborate on the most exciting projects
+- 🤔 I’m also looking for my first job as a web developper
 - 💬 Ask me about anything, i'll be glad to answer your questions :blush:
 - ⚡ Fun fact: Loading time should last less than 2 seconds ! Did you know that a whole 47% of users expect websites to load in less than 2 seconds? If your website takes longer than that to load, visitors can easily get frustrated and they probably won’t stick around. Website speed matters :wink:
 
@@ -24,6 +23,9 @@
 </a>
 <a href="https://portefolio-m-volet.vercel.app/" target="_blank">
 <img src="./images/globe.png" width="35px" alt="globe_icon"/>
+</a>
+<a href="https://cv-marek-volet-2n812s66c-voletmarek.vercel.app/html" target="_blank">
+<img src="./images/cv.png" width="35px" alt="cv_icon"/>
 </a>
 
 ### :computer: Languages
