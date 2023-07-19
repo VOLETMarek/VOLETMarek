@@ -21,10 +21,11 @@
 <a href="https://twitter.com/rrSyntax" target="_blank">
 <img src="./images/twitter.png" width="35px" alt="twitter_icon"/>
 </a>
-<a href="https://portefolio-m-volet.vercel.app/" target="_blank">
+<a href="https://portefolio-beta-marek-volet.vercel.app/" target="_blank">
 <img src="./images/globe.png" width="35px" alt="globe_icon"/>
 </a>
-<a href="https://portefolio-beta-marek-volet.vercel.app/" target="_blank">
+<a href="https://cv-marek-volet-2n812s66c-voletmarek.vercel.app/html
+" target="_blank">
 <img src="./images/cv.png" width="35px" alt="cv_icon"/>
 </a>
 
