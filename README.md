@@ -21,7 +21,7 @@
 <a href="https://twitter.com/rrSyntax" target="_blank">
 <img src="./images/twitter.png" width="35px" alt="twitter_icon"/>
 </a>
-<a href="https://portefolio-beta-marek-volet.vercel.app/" target="_blank">
+<a href="https://portefolio-fawn.vercel.app/" target="_blank">
 <img src="./images/globe.png" width="35px" alt="globe_icon"/>
 </a>
 <a href="https://cv-marek-volet-2n812s66c-voletmarek.vercel.app/html
@@ -36,8 +36,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" alt="html5_icon"  style="padding-right:11px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" alt="css3_icon"  style="padding-right:11px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" alt="bootstrap_icon"  style="padding-right:11px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" alt="javascript_icon"  style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" alt="react_icon"  style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" alt="php_icon"  style="padding-right:11px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" alt="react_icon" style="padding-right:11px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" alt="php_icon" style="padding-right:11px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="30px" alt="symfony_icon"  style="padding-right:11px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30px" alt="laravel_icon"  style="padding-right:11px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" alt="mysql_icon"  style="padding-right:11px"/>
@@ -60,4 +60,4 @@
 
 --- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VOLETMarek&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOLETMarek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
