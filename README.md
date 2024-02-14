@@ -35,36 +35,36 @@
 #### Front-end
 
 <div style="display: flex">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="HTML5 icon" style="padding-right:12px"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="CSS3 icon" style="padding-right:12px"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" alt="Bootstrap icon" style="padding-right:12px"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript icon" style="padding-right:12px"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" alt="React icon" style="padding-right:12px"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="50px" alt="Nuxt icon" style="padding-right:12px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg"  width="50px" alt="Nuxt icon" style="padding-right:12px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="HTML5 icon" style="margin-right:16px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="CSS3 icon" style="margin-right:16px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" alt="Bootstrap icon" style="margin-right:16px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript icon" style="margin-right:16px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" alt="React icon" style="margin-right:16px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="50px" alt="Nuxt icon" style="margin-right:16px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg"  width="50px" alt="Nuxt icon" style="margin-right:16px" />
 </div>
 
 #### Back-end
 
 <div style="display: flex">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" alt="PHP icon" style="padding-right:12px"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="50px" alt="Node icon" style="padding-right:12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50px" alt="Express icon" style="padding-right:12px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" alt="MySQL icon" style="padding-right:12px"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50px" alt="WordPress icon" style="padding-right:12px"/>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" alt="PHP icon" style="margin-right:16px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="50px" alt="Node icon" style="margin-right:16px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50px" alt="Express icon" style="margin-right:16px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" alt="MySQL icon" style="margin-right:16px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50px" alt="WordPress icon" style="margin-right:16px"/>   
 </div>
 
 ### :wrench: Tools
 
 ---
 <div style="display: flex">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" alt="visualstudiocode_icon" style="padding-right:12px"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" alt="github_icon" style="padding-right:12px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" alt="visualstudiocode_icon" style="margin-right:16px"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" alt="github_icon" style="margin-right:16px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" alt="git_icon"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px" alt="windows_icon" style="padding-right:12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50px" alt="apple_icon" style="padding-right:12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" alt="linux_icon" style="padding-right:12px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50px" alt="slack_icon" style="padding-right:12px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px" alt="windows_icon" style="margin-right:16px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50px" alt="apple_icon" style="margin-right:16px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" alt="linux_icon" style="margin-right:16px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50px" alt="slack_icon" style="margin-right:16px"/>
 </div>
 
 ### 📈 Stats
