@@ -24,8 +24,7 @@
 <a href="https://portefolio-fawn.vercel.app/" target="_blank">
 <img src="./images/globe.png" width="35px" alt="globe_icon"/>
 </a>
-<a href="https://cv-marek-volet-2n812s66c-voletmarek.vercel.app/html
-" target="_blank">
+<a href="https://cv-five-weld.vercel.app/html/online-version" target="_blank">
 <img src="./images/cv.png" width="35px" alt="cv_icon"/>
 </a>
 
@@ -33,31 +32,44 @@
 
 ---
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" alt="html5_icon"  style="padding-right:11px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" alt="css3_icon"  style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" alt="bootstrap_icon"  style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" alt="javascript_icon"  style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" alt="react_icon" style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" alt="php_icon" style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="30px" alt="symfony_icon"  style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30px" alt="laravel_icon"  style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" alt="mysql_icon"  style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30px" alt="mysql_icon"  style="padding-right:11px"/>
+#### Front-end
+
+<div style="display: flex; gap: 1rem;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" alt="HTML5 icon"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" alt="CSS3 icon"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" alt="Bootstrap icon"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" alt="JavaScript icon"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" alt="React icon"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="30px" alt="Nuxt icon" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg"  width="30px" alt="Nuxt icon" />
+</div>
+
+#### Back-end
+
+<div style="display: flex; gap: 1rem;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" alt="PHP icon"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="30px" alt="Node icon"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30px" alt="Express icon" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" alt="MySQL icon"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30px" alt="WordPress icon"/>   
+</div>
 
 ### :wrench: Tools
 
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" alt="visualstudiocode_icon" style="padding-right:11px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" alt="github_icon" style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" alt="git_icon" style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="30px" alt="chrome_icon" style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="30px" alt="firefox_icon" style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30px" alt="windows_icon" style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30px" alt="apple_icon" style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" alt="linux_icon" style="padding-right:11px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="30px" alt="slack_icon" style="padding-right:11px"/>
+<div style="display: flex; gap: 1rem;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" alt="visualstudiocode_icon"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" alt="github_icon"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" alt="git_icon"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30px" alt="windows_icon"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30px" alt="apple_icon"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" alt="linux_icon"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="30px" alt="slack_icon"/>
+</div>
 
 ### 📈 Stats
 
---- 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOLETMarek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
