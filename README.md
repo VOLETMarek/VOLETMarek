@@ -34,7 +34,7 @@
 
 #### Front-end
 
-<div style="display: flex; gap: 1rem;">
+<div style="display: flex; gap: 3rem;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" alt="HTML5 icon"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" alt="CSS3 icon"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" alt="Bootstrap icon"/> 
@@ -46,7 +46,7 @@
 
 #### Back-end
 
-<div style="display: flex; gap: 1rem;">
+<div style="display: flex; gap: 3rem;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" alt="PHP icon"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="30px" alt="Node icon"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30px" alt="Express icon" />
@@ -58,7 +58,7 @@
 
 ---
 
-<div style="display: flex; gap: 1rem;">
+<div style="display: flex; gap: 3rem;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" alt="visualstudiocode_icon"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" alt="github_icon"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" alt="git_icon"/>
