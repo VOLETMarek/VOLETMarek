@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working for Innosys (https://www.innosys.fr/), time to learn some new skills!
+- 🔭 I’m currently working at Innosys as a backend developper (https://www.innosys.fr/), time to learn some new skills!
 - 👨🏻‍💻 I’m looking to collaborate on the most exciting projects
 - 💬 Ask me about anything, i'll be glad to answer your questions :blush:
 - ⚡ Fun fact: Loading time should last less than 2 seconds ! Did you know that a whole 47% of users expect websites to load in less than 2 seconds? If your website takes longer than that to load, visitors can easily get frustrated and they probably won’t stick around. Website speed matters :wink:
